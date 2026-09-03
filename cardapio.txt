@@ -1,15 +1,11 @@
-<<<<<<< HEAD
-#Menu de Sobremesas 
-*Preço sujeito a alteração* Hor�rio de Funcionamento : 24h 
-=======
 ==============================================================
-           ★PATISSERIE LALA'S - LILY COUTURE★
+           â˜…PATISSERIE LALA'S - LILY COUTUREâ˜…
 ==============================================================
-                   [MACARON DE LAVANDA] PREÇO R$12,90
+                   [MACARON DE LAVANDA] PREÃ‡O R$12,90
 --------------------------------------------------------------
 *MOUSSE DE CHOCOLATE
 *EXTRATO DE LAVANDA PINHO
 --------------------------------------------------------------
 |                  OBRIGADA POR NOS VISITAR!                 |
 --------------------------------------------------------------
->>>>>>> 44c4dd9550fb411f27159a362a996efb405da2f3
+
